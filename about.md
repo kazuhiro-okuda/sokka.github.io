@@ -26,49 +26,43 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![TeXt Theme](https://fuzzable.com/wp-content/uploads/2018/05/Society6-showcasing-talented-artists-from-across-the-globe-01.png)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+```java
+public abstract class PersonalData{
+   protected String name;
+   protected int age;
+   protected String address;
+   protected String hobby;
+　　....
+}
 
-```javascript
-(() => console.log('Hello, World!'))();
+public class Me extends PersonalData{
+　　Me(){
+      super.name = "Kazuhiro Okuda";
+      super.age = 27;
+      super.address = "Shinjuku Takadanobaba, Tokyo"
+      super.hobby = "dance";
+      ...
+   }
+}
 ```
 
 ## Features
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+- test editing
+- links ([My Qiita](https://qiita.com/kazuhiro-okuda), [My Qiita](https://qiita.com/kazuhiro-okuda), [My Qiita](https://qiita.com/kazuhiro-okuda))
 
-## Skins
+## Other media
 
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
+| `Youtube` | `twitter` | `LINE` |
 | --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+| ![Youtube](https://cdn.vox-cdn.com/thumbor/r3AM_q5ktTjtd8gjoFwpAakshaA=/0x0:1680x1050/1400x1050/filters:focal(706x391:974x659):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/56414325/YTLogo_old_new_animation.0.gif)| ![twitter](https://i.pinimg.com/originals/ba/46/c8/ba46c8090ccc536ef26c005f9f2fc404.gif)| ![LINE@](https://cdn.dribbble.com/users/1306249/screenshots/9790281/media/d23058b1d72a8600bf0763789860f2ac.gif) |
 
-| `ocean` | `chocolate` | `orange` |
+| `instagram` | `Tiktok` |
 | --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+| ![instagram](https://cdn.dribbble.com/users/2475489/screenshots/9553468/1-instagram.gif) | ![Tiktok](https://i.giphy.com/media/QC1Gp8ZTABAyzYhraI/giphy.webp) |
 
-### Highlight Theme
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+### Other activity
+[#sokka-society6]()　　　[#Techcommit]()　　[#shirahu-coffee]()　　[#DMM-Developers-community]()
