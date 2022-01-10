@@ -41,7 +41,7 @@ public class Me extends PersonalData{
 　　Me(){
       super.name = "Kazuhiro Okuda";
       super.age = 26;
-      super.address = "Mitaka, Tokyo"
+      super.address = "Shinjuku Takadanobaba, Tokyo"
       super.hobby = "dance";
       ...
    }
@@ -65,4 +65,4 @@ public class Me extends PersonalData{
 
 
 ### Other activity
-[#sokka-society6]()　　　[#Techcommit]()　　[#shirahu-coffee]()　　[#DMM-Web-community]()
+[#sokka-society6]()　　　[#Techcommit]()　　[#shirahu-coffee]()　　[#DMM-Developers-community]()
