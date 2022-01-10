@@ -40,7 +40,7 @@ public abstract class PersonalData{
 public class Me extends PersonalData{
 　　Me(){
       super.name = "Kazuhiro Okuda";
-      super.age = 26;
+      super.age = 27;
       super.address = "Shinjuku Takadanobaba, Tokyo"
       super.hobby = "dance";
       ...
